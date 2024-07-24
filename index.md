@@ -6,3 +6,4 @@
 ###### Header n6
 
 I have tried 6 levels of headers in this file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
